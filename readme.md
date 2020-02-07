@@ -8,7 +8,7 @@ git is better than svn
 > 如何写代码
 >
    
-'''
+```python
 import numpy as np
-'''
+```
 
