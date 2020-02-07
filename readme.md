@@ -5,6 +5,7 @@ git is better than svn
 #### 第一次课Git版本控制
 + git 指令
 + github 操作
++ 分支管理
 > 如何写代码
 >
    
