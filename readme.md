@@ -5,7 +5,9 @@ git is better than svn
 #### 第一次课Git版本控制
 + git 指令
 + github 操作
-> 如何写代码   
+> 如何写代码
+>
+   
 ''' shell
 import numpy as np
 '''
